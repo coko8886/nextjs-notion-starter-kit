@@ -10,15 +10,17 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'UU',
-  domain: 'uu',
-  author: 'Travis Fischer',
+  domain: '2030110.xyz',
+  author: 'UU',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '专注技术、持续学习',
+  socialImageTitle: 'Transitive Bullshit',
+  socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  twitter: 'winni0499',
+  github: 'coko8886',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
