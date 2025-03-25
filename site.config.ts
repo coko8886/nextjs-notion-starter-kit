@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'UU',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'uu',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
